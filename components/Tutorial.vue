@@ -1,7 +1,7 @@
 <!-- Please remove this file from your project -->
 <template>
   <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
-   <h1>ADD "/game" yo  the URL </h1>
+   <h1>ADD "/game" to the URL </h1>
   </div>
 </template>
 
